@@ -10,7 +10,7 @@
     } 
     ?>  
     </h1>
-    <p>Welcome</p>
+    <p>Welcome to the code</p>
     
 <?php
     include_once 'footer.php';
